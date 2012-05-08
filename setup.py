@@ -14,7 +14,7 @@ If you want to know in detail what it offers for each database, check the docume
 
 setup(
     name = "django-orm-extensions",
-    version = ':versiontools:version:',
+    version = '3.0.2sm0',
     url = 'https://github.com/niwibe/django-orm-extensions',
     license = 'BSD',
     platforms = ['OS Independent'],
